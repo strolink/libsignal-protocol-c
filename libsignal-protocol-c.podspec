@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "libsignal-protocol-c"
-    s.version      = "2.3.2"
+    s.version      = "2.3.3"
     s.summary      = "Signal Protocol"
   
     s.ios.deployment_target = '11.0'
